@@ -15,7 +15,7 @@ By participating in this series, you will:
 
 ## WIIFM
 
-We follow the [Liatrio Delivery Methodology](https://ldm.liatri.io) to ensure the *successful delivery of every workstream*. When everyone has an understanding of the charter process and how to engage and participate, we are able to provide a consistently awesome experience for our clients.
+We follow the [Liatrio Delivery Methodology](https://ldm.liatr.io) to ensure the *successful delivery of every workstream*. When everyone has an understanding of the charter process and how to engage and participate, we are able to provide a consistently awesome experience for our clients.
 
 ---
 
